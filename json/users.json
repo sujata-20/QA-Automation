@@ -1,0 +1,17 @@
+{
+    "values": {
+        "windUser" : {
+            "userName": "DASHBOARD_WINDUSER1",
+            "password": "Temp@123b"
+        },
+        "windCustomer" : {
+            "userName": "Wind_Customer",
+            "password": "ptest@123user"
+        },
+        "SSO": {
+            "userName": "502812560",
+            "password": "a33-Today"
+        }
+    }
+
+}
