@@ -1,11 +1,11 @@
 # QA-Automation
 Example automation projects
 
-GTE Basic Structure and Framework Information:
+Form basic structure and framework information:
 
 Protractor - Selenium - Chai - Cucumber framework
 
-Setup & Running GTE web application :
+Setup & running web application :
 
 In order to get started, you will need to make sure that you have some development tools installe
 
@@ -17,7 +17,7 @@ PowerSword, to install powersword globally, follow one of these options: Option 
 
 $ npm install -g git://github.build.ge.com/nola-guilds/powersword.git Option 2
 
-$ git clone git@github.build.ge.com:dte/powersword.git
+$ git clone repository
 
 $ cd powersword
 
