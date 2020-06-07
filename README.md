@@ -1,7 +1,7 @@
 # QA-Automation
 Example automation projects
 
-Form basic structure and framework information:
+Project basic structure and framework information:
 
 Protractor - Selenium - Chai - Cucumber framework
 
