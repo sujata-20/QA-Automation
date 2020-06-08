@@ -15,7 +15,7 @@ Bower, to install bower globally, run this command: $ npm install -g bower
 
 PowerSword, to install powersword globally, follow one of these options: Option 1
 
-$ npm install -g git://github.build.ge.com/nola-guilds/powersword.git Option 2
+$ npm install -g git://github.build.ge.com/ Option 2
 
 $ git clone repository
 
