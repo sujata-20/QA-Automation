@@ -20,8 +20,10 @@ public class Form {
         driver.findElement(By.cssSelector("option[value='4']")).click();
         driver.findElement(By.id("datepicker")).sendKeys("06/03/2020");
         driver.findElement(By.id("datepicker")).sendKeys(Keys.RETURN);
-
         driver.findElement(By.xpath("/html/body/div/form/div/div[8]/a")).click();
+        
+        WebDriverWait wait = new WebDriverWait(driver, 10);
+        WebElement alert = wait.until((ExpectedConditions.visibilityOfElementLocated(By.className("alert"))));
 
 
 
